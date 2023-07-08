@@ -57,6 +57,13 @@ $ git clone https://github.com/helderhsilva/SHA256_EVP
 
 <br>
 
+"Este projeto está licenciado nos termos da licença MIT."
+
+---
+
+
+<br>
+
 ## 👨‍💻 Author
 
 <table align="center">
