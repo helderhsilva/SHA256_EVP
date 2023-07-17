@@ -48,7 +48,7 @@ Based on a discipline that was using an old version of the openssl library for h
 5. Type git clone (clone git) and paste the URL you copied earlier.
 
 ```c
-$ git clone https://github.com/helderhsilva/SHA256_EVP
+$ git clone git@github.com:theHprogrammer/SHA256_EVP.git
 ```
 
 6. Press Enter to create your local clone.
